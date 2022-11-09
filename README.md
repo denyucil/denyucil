@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm deny
 
-<!--
-**denyucil/denyucil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been doing nodes for a year and a half and always try to keep them active.
 
-Here are some ideas to get you started:
+👩🏼‍💻 I'm node runner and validator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 I’m interested in crypto currencies and metaverse.
+
+🔗 I’m working on my own crypto project, but I need a lot of time.
+
+📂 Languages:
+
+* Ukrainian (native)
+* Russian
+* English
+* Italian
+
+✨ Skills:
+* Copywriting (posts on socials, articles);
+* Design by Photoshop (pictures, stickers, memes, giffs);
+* Video tutorials on Youtube, guides, shorts (TikTok);
+* Streams on Twitch;
+* Holding events: quizzes, competitions, challenges and contests.
+
+🛠 I've been doing node running. PROJECTS:
+* https://www.terra.money/
+* https://sui.io/
+* https://www.masa.finance/
+* https://massa.net/
+* https://www.minima.global/
+* https://ironfish.network/
